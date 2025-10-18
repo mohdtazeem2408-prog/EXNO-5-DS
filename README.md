@@ -435,4 +435,5 @@ plt.show()
 
 
 # Result:
- Include your result here
+ Thus, the program to Perform Data Visualization using matplot python library for the given data was 
+implemented.
